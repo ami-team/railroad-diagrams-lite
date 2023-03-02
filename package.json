@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "railroad-diagrams-lite",
+  "version": "1.1.0",
+  "description": "A small JS+SVG library for drawing railroad syntax diagrams.",
+  "main": "railroad.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ami-team/railroad-diagrams-lite.git"
+  },
+  "files": [
+    "railroad.js",
+    "railroad.css"
+  ],
+  "keywords": [
+    "railroad",
+    "syntax",
+    "diagrams",
+    "grammar",
+    "svg"
+  ],
+  "author": "Tab Atkins Jr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ami-team/railroad-diagrams-lite/issues/"
+  },
+  "homepage": "https://github.com/ami-team/railroad-diagrams-lite/"
+}
